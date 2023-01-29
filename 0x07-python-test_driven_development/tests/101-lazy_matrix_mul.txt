@@ -1,5 +1,4 @@
 # 101-lazy_matrix_mul.txt
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 =================================
 How to Use 101-lazy_matrix_mul.py
